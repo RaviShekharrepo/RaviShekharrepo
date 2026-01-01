@@ -1,6 +1,9 @@
-<h1 align="center">
-  👋 THIS IS <span style="color:#4FC3F7;">RAVI SHEKHAR</span>
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=4FC3F7&lines=THIS+IS+RAVI+SHEKHAR"
+    alt="Typing Name"
+  />
+</p>
 
 <p align="center">
   <span style="color:#81D4FA; font-size:20px; font-weight:600;">
@@ -11,12 +14,12 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&color=64B5F6&lines=Software+Developer;Computer+Science+Programmer;Internet+of+Things+(IoT);Defence+Technology"
-    alt="Typing SVG"
+    alt="Typing Roles"
   />
 </p>
 
 <p align="center">
-  <b style="color:#90CAF9;">💻 Computer Science | Programming | System Building</b>
+  <b>💻 Computer Science | Programming | System Building</b>
 </p>
 
 ---
@@ -27,7 +30,7 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 
 - 🎓 3rd Year CSE Student  
 - 💡 Curious about latest technologies  
-- 🧠 Learning by building real systems  
+- 🧠 Learn by building real systems  
 - 🎯 Actively preparing for **placements & internships**
 
 ---
@@ -53,29 +56,21 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 🔹 Python  
 🔹 JavaScript  
 
----
-
 ### 🌐 Software Development
 🎨 Frontend: HTML, CSS, JavaScript  
 ⚙️ Backend: APIs, Server Logic  
-🧩 Full-Stack: End-to-End Web Applications  
-
----
+🧩 Full-Stack Web Applications  
 
 ### 🤖 Machine Learning
 📧 Email Spam Detection  
 🔐 URL Phishing Detection  
 📊 Classification Models  
 
----
-
 ### 🗄️ Tools & Technologies
 🐙 Git & GitHub  
 🗃️ SQL Databases  
 🔗 REST APIs  
 🐧 Linux (Basics)  
-
----
 
 ### 📡 IoT & Defence Tech
 🧠 Embedded Systems (Basics)  
@@ -84,28 +79,41 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 
 ---
 
-## 📂 Projects
+## 🌟 Featured Projects
 
-### 🌐 Software Projects
-💼 **Personal Portfolio Website**  
-📦 **Super Mart Inventory Management System**
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/Personal-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Personal-Portfolio&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/Inventory-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Inventory-Management-System&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
-### 🤖 Machine Learning Projects
-📧 **Email Spam Detection System**  
-🔐 **URL Phishing Detection System**
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/Email-Spam-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Email-Spam-Detection&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/URL-Phishing-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=URL-Phishing-Detection&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 DSA Progress Tracker
+## 🧠 DSA & Competitive Programming (Auto-Updated)
 
-| 📌 Topic | 🚦 Status |
-|--------|----------|
-| Arrays & Strings | 🟢 Active |
-| Linked List | 🟡 Ongoing |
-| Stack & Queue | 🟡 Ongoing |
-| Trees | 🔴 Upcoming |
-| Graphs | 🔴 Upcoming |
-| Dynamic Programming | 🔴 Upcoming |
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&ext=contest&animation=true" />
+</p>
+
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/YOUR_GFG_USERNAME" />
+</p>
+
+<p align="center">
+  🔄 <b>Stats update automatically with daily practice</b>
+</p>
 
 ---
 
@@ -118,18 +126,6 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🧩 Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&ext=contest"/>
-</p>
-
-<p align="center">
-  <img src="https://gfgstatscard.vercel.app/YOUR_GFG_USERNAME" />
 </p>
 
 ---
@@ -167,5 +163,5 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 ---
 
 <p align="center">
-  ⭐ <b style="color:#66BB6A;">Open for Internships & Placement Opportunities</b>
+  ⭐ <b>Open for Internships & Placement Opportunities</b>
 </p>
