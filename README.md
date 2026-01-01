@@ -1,84 +1,76 @@
 <h1 align="center">👋 THIS IS <span style="color:#00BFFF;">RAVI SHEKHAR</span></h1>
 
-<h3 align="center">
-  <span style="color:#ff9800;">Tech Enthusiast</span> | 
-  <span style="color:#4caf50;">Software Developer</span> | 
-  <span style="color:#9c27b0;">IoT</span> | 
-  <span style="color:#f44336;">Defence Tech</span>
-</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Software+Developer;Internet+of+Things+(IoT);Defence+Technology" 
+    alt="Typing SVG" 
+  />
+</p>
 
 <p align="center">
-  <b>Computer Science & Engineering | Placement & Internship Focused</b>
+  <b>Computer Science & Engineering | Programming & System Focused</b>
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a **3rd Year Computer Science Engineering student** passionate about **modern computing technologies**, software systems, and real-world problem solving.  
-I focus on **clean code, scalable architectures, and industry-ready development**.
+I am a **3rd Year Computer Science Engineering student** with strong interest in **programming, software systems, and emerging technologies**.  
+I focus on **industry-ready development**, clean code, and real-world problem solving.
 
 - 🎓 3rd Year CSE Student  
-- 💻 Strong in **Software Development & Computer Fundamentals**  
-- 🧠 Problem solver with engineering mindset  
-- 🎯 Goal: Secure a **top software/tech role** through strong projects & skills  
+- 💻 Programming & Software Development focused  
+- 🧠 Strong fundamentals + practical projects  
+- 🎯 Actively preparing for **placements & internships**
 
 ---
 
 ## 🏢 Internship Experience
 
-### 🔹 Web Developer Intern
+### 🧑‍💻 Web Developer Intern
 - **ONGC (Oil and Natural Gas Corporation)**  
 - **SAIL (Steel Authority of India Limited)**  
 
-**Responsibilities & Impact:**
-- Developed production-level web applications  
-- Worked on **frontend–backend integration**  
-- Built & consumed **REST APIs**  
-- Followed **industry coding standards & best practices**
+**Key Work:**
+- Frontend & backend development  
+- REST API integration  
+- Database connectivity  
+- Industry-level coding practices  
 
 ---
 
-## 🛠️ Technical Skills (Computer Science Focused)
+## 🛠️ Technical Skills (Programming Focus)
 
-### 💻 Programming Languages
+### 💻 Languages
 - Java | C++ | Python | JavaScript  
 
-### 🌐 Software & Web Development
+### 🌐 Software Development
 - Frontend: HTML, CSS, JavaScript  
-- Backend: APIs, Server-side Development  
-- Full-Stack Application Design  
+- Backend: APIs, server logic  
+- Full-Stack application development  
 
 ### 🤖 Machine Learning
-- Classification Algorithms  
 - Email Spam Detection  
 - URL Phishing Detection  
-- Data Processing & Model Evaluation  
+- Classification models  
 
-### 🗄️ Databases & Tools
-- SQL Databases  
+### 🗄️ Tools & CS Stack
 - Git & GitHub  
+- SQL Databases  
 - REST APIs  
 - Linux (Basics)  
 
 ### 📡 IoT & Defence Tech
-- Sensors & Embedded Systems (Basics)  
-- Hardware–Software Integration  
-- Automation & Monitoring Systems  
-- Defence-oriented computing solutions  
+- Embedded systems (Basics)  
+- Sensors & automation  
+- Defence-oriented problem solving  
 
 ---
 
-## 📂 Projects (Placement Ready)
+## 📂 Key Projects
 
-### 🌐 Software & Web Projects
-- **Personal Portfolio Website**  
-  - Responsive UI  
-  - Professional project showcase  
-
-- **Super Mart Software (Inventory Management System)**  
-  - Product & stock management  
-  - Sales tracking  
-  - Real-world business automation  
+### 🌐 Software Projects
+- **Personal Portfolio Website** – Responsive & professional  
+- **Super Mart Inventory Management System** – Real-world business software  
 
 ### 🤖 Machine Learning Projects
 - **Email Spam Detection System**  
@@ -86,29 +78,27 @@ I focus on **clean code, scalable architectures, and industry-ready development*
 
 ---
 
-## 📌 Core CS Interests
-- Software Engineering  
-- Full-Stack Development  
-- Machine Learning & AI  
-- Internet of Things (IoT)  
-- Defence Technology  
-- System Design  
+## 🧠 DSA Progress Tracker
+
+| Platform | Status |
+|--------|--------|
+| Arrays | 🟢 In Progress |
+| Strings | 🟢 In Progress |
+| Linked List | 🟡 Started |
+| Stack & Queue | 🟡 Started |
+| Trees | 🔴 Upcoming |
+| Graphs | 🔴 Upcoming |
+| Dynamic Programming | 🔴 Upcoming |
+
+📌 *Consistently improving problem-solving & coding logic*
 
 ---
 
-## 📈 Currently Preparing For
-- Placements & Internship Interviews  
-- DSA & Core CS Fundamentals  
-- Advanced Backend Development  
-- Industry-level ML projects  
-
----
-
-## 📊 GitHub Stats & Activity
+## 📊 Coding & GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -117,28 +107,50 @@ I focus on **clean code, scalable architectures, and industry-ready development*
 
 ---
 
+## 🧩 Competitive Programming Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest"/>
+</p>
+
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/YOUR_GFG_USERNAME" />
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-Placement%20Ready-success?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Placement%20Ready-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hire%20Me-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Tech%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-Tech%20Talks-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Life%20%26%20Tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+    <img src="https://img.shields.io/badge/Instagram-Tech%20Life-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Recruit%20Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b><span style="color:#00c853;">Actively seeking internships & placement opportunities</span></b>
+  ⭐ <b><span style="color:#00c853;">Open for Internships & Placement Opportunities</span></b>
 </p>
