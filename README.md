@@ -4,30 +4,30 @@
 
 <p align="center">
   <span style="color:#81D4FA; font-size:20px; font-weight:600;">
-    Tech Enthusiast
+    🚀 Tech Enthusiast
   </span>
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=600&color=64B5F6&lines=Software+Developer;Internet+of+Things+(IoT);Defence+Technology;Computer+Science+Programmer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&color=64B5F6&lines=Software+Developer;Computer+Science+Programmer;Internet+of+Things+(IoT);Defence+Technology"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <b style="color:#90CAF9;">Computer Science | Programming | System Building</b>
+  <b style="color:#90CAF9;">💻 Computer Science | Programming | System Building</b>
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a **3rd Year Computer Science Engineering student** who is passionate about **modern computing, programming, and real-world problem solving**.  
-I focus on **writing clean code**, understanding **core CS fundamentals**, and building **industry-ready systems**.
+I am a **3rd Year Computer Science Engineering student** passionate about **programming, modern computing, and real-world problem solving**.  
+I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 
 - 🎓 3rd Year CSE Student  
-- 💻 Strong interest in **programming & software systems**  
-- 🧠 Learning by building real projects  
+- 💡 Curious about latest technologies  
+- 🧠 Learning by building real systems  
 - 🎯 Actively preparing for **placements & internships**
 
 ---
@@ -35,61 +35,71 @@ I focus on **writing clean code**, understanding **core CS fundamentals**, and b
 ## 🏢 Internship Experience
 
 ### 🧑‍💻 Web Developer Intern
-- **ONGC (Oil and Natural Gas Corporation)**  
-- **SAIL (Steel Authority of India Limited)**  
+🏢 **ONGC (Oil and Natural Gas Corporation)**  
+🏢 **SAIL (Steel Authority of India Limited)**  
 
-**Highlights**
-- Frontend & backend development  
-- REST API integration  
-- Database connectivity  
-- Industry-standard coding practices  
+🔹 Frontend & backend development  
+🔹 REST API integration  
+🔹 Database connectivity  
+🔹 Industry-level coding practices  
 
 ---
 
 ## 🛠️ Technical Skills (CS Focused)
 
 ### 💻 Programming Languages
-- Java | C++ | Python | JavaScript  
+🔹 Java  
+🔹 C++  
+🔹 Python  
+🔹 JavaScript  
+
+---
 
 ### 🌐 Software Development
-- Frontend: HTML, CSS, JavaScript  
-- Backend: APIs, server logic  
-- Full-Stack web applications  
+🎨 Frontend: HTML, CSS, JavaScript  
+⚙️ Backend: APIs, Server Logic  
+🧩 Full-Stack: End-to-End Web Applications  
+
+---
 
 ### 🤖 Machine Learning
-- Email Spam Detection  
-- URL Phishing Detection  
-- Classification models  
+📧 Email Spam Detection  
+🔐 URL Phishing Detection  
+📊 Classification Models  
+
+---
 
 ### 🗄️ Tools & Technologies
-- Git & GitHub  
-- SQL Databases  
-- REST APIs  
-- Linux (Basics)  
+🐙 Git & GitHub  
+🗃️ SQL Databases  
+🔗 REST APIs  
+🐧 Linux (Basics)  
+
+---
 
 ### 📡 IoT & Defence Tech
-- Embedded systems (Basics)  
-- Sensors & automation  
-- Defence-oriented problem solving  
+🧠 Embedded Systems (Basics)  
+📟 Sensors & Automation  
+🛡️ Defence-Oriented Problem Solving  
 
 ---
 
 ## 📂 Projects
 
 ### 🌐 Software Projects
-- **Personal Portfolio Website**  
-- **Super Mart Inventory Management System**  
+💼 **Personal Portfolio Website**  
+📦 **Super Mart Inventory Management System**
 
 ### 🤖 Machine Learning Projects
-- **Email Spam Detection System**  
-- **URL Phishing Detection System**  
+📧 **Email Spam Detection System**  
+🔐 **URL Phishing Detection System**
 
 ---
 
 ## 🧠 DSA Progress Tracker
 
-| Topic | Status |
-|------|--------|
+| 📌 Topic | 🚦 Status |
+|--------|----------|
 | Arrays & Strings | 🟢 Active |
 | Linked List | 🟡 Ongoing |
 | Stack & Queue | 🟡 Ongoing |
@@ -99,7 +109,7 @@ I focus on **writing clean code**, understanding **core CS fundamentals**, and b
 
 ---
 
-## 📊 GitHub & Coding Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -128,7 +138,7 @@ I focus on **writing clean code**, understanding **core CS fundamentals**, and b
 
 <p align="center">
   <a href="YOUR_RESUME_LINK.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-Open%20to%20Work-64B5F6?style=for-the-badge&logo=googledocs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-Placement%20Ready-64B5F6?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
 </p>
 
