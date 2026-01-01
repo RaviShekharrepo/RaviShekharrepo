@@ -1,25 +1,33 @@
-<h1 align="center">👋 THIS IS <span style="color:#00BFFF;">RAVI SHEKHAR</span></h1>
+<h1 align="center">
+  👋 THIS IS <span style="color:#4FC3F7;">RAVI SHEKHAR</span>
+</h1>
+
+<p align="center">
+  <span style="color:#81D4FA; font-size:20px; font-weight:600;">
+    Tech Enthusiast
+  </span>
+</p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Software+Developer;Internet+of+Things+(IoT);Defence+Technology" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=600&color=64B5F6&lines=Software+Developer;Internet+of+Things+(IoT);Defence+Technology;Computer+Science+Programmer"
+    alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <b>Computer Science & Engineering | Programming & System Focused</b>
+  <b style="color:#90CAF9;">Computer Science | Programming | System Building</b>
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a **3rd Year Computer Science Engineering student** with strong interest in **programming, software systems, and emerging technologies**.  
-I focus on **industry-ready development**, clean code, and real-world problem solving.
+I am a **3rd Year Computer Science Engineering student** who is passionate about **modern computing, programming, and real-world problem solving**.  
+I focus on **writing clean code**, understanding **core CS fundamentals**, and building **industry-ready systems**.
 
 - 🎓 3rd Year CSE Student  
-- 💻 Programming & Software Development focused  
-- 🧠 Strong fundamentals + practical projects  
+- 💻 Strong interest in **programming & software systems**  
+- 🧠 Learning by building real projects  
 - 🎯 Actively preparing for **placements & internships**
 
 ---
@@ -30,30 +38,30 @@ I focus on **industry-ready development**, clean code, and real-world problem so
 - **ONGC (Oil and Natural Gas Corporation)**  
 - **SAIL (Steel Authority of India Limited)**  
 
-**Key Work:**
+**Highlights**
 - Frontend & backend development  
 - REST API integration  
 - Database connectivity  
-- Industry-level coding practices  
+- Industry-standard coding practices  
 
 ---
 
-## 🛠️ Technical Skills (Programming Focus)
+## 🛠️ Technical Skills (CS Focused)
 
-### 💻 Languages
+### 💻 Programming Languages
 - Java | C++ | Python | JavaScript  
 
 ### 🌐 Software Development
 - Frontend: HTML, CSS, JavaScript  
 - Backend: APIs, server logic  
-- Full-Stack application development  
+- Full-Stack web applications  
 
 ### 🤖 Machine Learning
 - Email Spam Detection  
 - URL Phishing Detection  
 - Classification models  
 
-### 🗄️ Tools & CS Stack
+### 🗄️ Tools & Technologies
 - Git & GitHub  
 - SQL Databases  
 - REST APIs  
@@ -66,11 +74,11 @@ I focus on **industry-ready development**, clean code, and real-world problem so
 
 ---
 
-## 📂 Key Projects
+## 📂 Projects
 
 ### 🌐 Software Projects
-- **Personal Portfolio Website** – Responsive & professional  
-- **Super Mart Inventory Management System** – Real-world business software  
+- **Personal Portfolio Website**  
+- **Super Mart Inventory Management System**  
 
 ### 🤖 Machine Learning Projects
 - **Email Spam Detection System**  
@@ -80,21 +88,18 @@ I focus on **industry-ready development**, clean code, and real-world problem so
 
 ## 🧠 DSA Progress Tracker
 
-| Platform | Status |
-|--------|--------|
-| Arrays | 🟢 In Progress |
-| Strings | 🟢 In Progress |
-| Linked List | 🟡 Started |
-| Stack & Queue | 🟡 Started |
+| Topic | Status |
+|------|--------|
+| Arrays & Strings | 🟢 Active |
+| Linked List | 🟡 Ongoing |
+| Stack & Queue | 🟡 Ongoing |
 | Trees | 🔴 Upcoming |
 | Graphs | 🔴 Upcoming |
 | Dynamic Programming | 🔴 Upcoming |
 
-📌 *Consistently improving problem-solving & coding logic*
-
 ---
 
-## 📊 Coding & GitHub Stats
+## 📊 GitHub & Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -107,10 +112,10 @@ I focus on **industry-ready development**, clean code, and real-world problem so
 
 ---
 
-## 🧩 Competitive Programming Stats
+## 🧩 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&ext=contest"/>
 </p>
 
 <p align="center">
@@ -122,8 +127,8 @@ I focus on **industry-ready development**, clean code, and real-world problem so
 ## 📄 Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-Placement%20Ready-success?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  <a href="YOUR_RESUME_LINK.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-Open%20to%20Work-64B5F6?style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
 </p>
 
@@ -133,24 +138,24 @@ I focus on **industry-ready development**, clean code, and real-world problem so
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hire%20Me-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-90CAF9?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-Tech%20Talks-1DA1F2?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-Tech-81D4FA?style=for-the-badge&logo=twitter"/>
   </a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-    <img src="https://img.shields.io/badge/Instagram-Tech%20Life-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Life-E1BEE7?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-Connect-B39DDB?style=for-the-badge&logo=facebook"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Recruit%20Me-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-FFCDD2?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b><span style="color:#00c853;">Open for Internships & Placement Opportunities</span></b>
+  ⭐ <b style="color:#66BB6A;">Open for Internships & Placement Opportunities</b>
 </p>
