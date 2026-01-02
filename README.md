@@ -1,7 +1,7 @@
+<!-- ================= HERO ================= -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=4FC3F7&lines=THIS+IS+RAVI+SHEKHAR"
-    alt="Typing Name"
   />
 </p>
 
@@ -13,8 +13,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&color=64B5F6&lines=Software+Developer;Computer+Science+Programmer;Internet+of+Things+(IoT);Defence+Technology"
-    alt="Typing Roles"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&color=64B5F6&lines=Software+Developer;Computer+Science+Programmer;IoT+Enthusiast;Defence+Technology"
   />
 </p>
 
@@ -25,13 +24,13 @@
 ---
 
 ## 🚀 About Me
-I am a **3rd Year Computer Science Engineering student** passionate about **programming, modern computing, and real-world problem solving**.  
-I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
+I am a **3rd Year Computer Science Engineering student** passionate about  
+**programming, modern computing, and real-world problem solving**.
 
 - 🎓 3rd Year CSE Student  
-- 💡 Curious about latest technologies  
 - 🧠 Learn by building real systems  
-- 🎯 Actively preparing for **placements & internships**
+- 💡 Curious about emerging technologies  
+- 🎯 Preparing for **placements & internships**
 
 ---
 
@@ -41,46 +40,64 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 🏢 **ONGC (Oil and Natural Gas Corporation)**  
 🏢 **SAIL (Steel Authority of India Limited)**  
 
-🔹 Frontend & backend development  
-🔹 REST API integration  
-🔹 Database connectivity  
-🔹 Industry-level coding practices  
+- Frontend & backend development  
+- REST API integration  
+- Database connectivity  
+- Industry-level coding practices  
 
 ---
 
-## 🛠️ Technical Skills (CS Focused)
+## 🛠️ Technical Skills (Icon-Based)
 
 ### 💻 Programming Languages
-🔹 Java  
-🔹 C++  
-🔹 Python  
-🔹 JavaScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
 
-### 🌐 Software Development
-🎨 Frontend: HTML, CSS, JavaScript  
-⚙️ Backend: APIs, Server Logic  
-🧩 Full-Stack Web Applications  
+### 🌐 Web & Software Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+</p>
 
 ### 🤖 Machine Learning
-📧 Email Spam Detection  
-🔐 URL Phishing Detection  
-📊 Classification Models  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
-### 🗄️ Tools & Technologies
-🐙 Git & GitHub  
-🗃️ SQL Databases  
-🔗 REST APIs  
-🐧 Linux (Basics)  
+### 🗄️ Databases & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
 
-### 📡 IoT & Defence Tech
-🧠 Embedded Systems (Basics)  
-📟 Sensors & Automation  
-🛡️ Defence-Oriented Problem Solving  
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### 📡 IoT & Defence Tech (Basics)
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-0A192F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sensors%20%26%20Automation-112240?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Defence%20Technology-233554?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
-
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME/Personal-Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Personal-Portfolio&theme=tokyonight&hide_border=true"/>
@@ -101,24 +118,18 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 
 ---
 
-## 🧠 DSA & Competitive Programming (Auto-Updated)
-
+## 🧠 DSA & Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&ext=contest&animation=true" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&animation=true" />
 </p>
 
 <p align="center">
   <img src="https://gfgstatscard.vercel.app/YOUR_GFG_USERNAME" />
 </p>
 
-<p align="center">
-  🔄 <b>Stats update automatically with daily practice</b>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -131,7 +142,6 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 ---
 
 ## 📄 Resume
-
 <p align="center">
   <a href="YOUR_RESUME_LINK.pdf">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-Placement%20Ready-64B5F6?style=for-the-badge&logo=googledocs&logoColor=white"/>
@@ -141,19 +151,9 @@ I focus on **clean code, strong CS fundamentals, and industry-ready projects**.
 ---
 
 ## 🤝 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-90CAF9?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-Tech-81D4FA?style=for-the-badge&logo=twitter"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-    <img src="https://img.shields.io/badge/Instagram-Life-E1BEE7?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-Connect-B39DDB?style=for-the-badge&logo=facebook"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FFCDD2?style=for-the-badge&logo=gmail"/>
