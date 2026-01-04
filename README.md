@@ -1,135 +1,127 @@
-<!-- ================= HERO ================= -->
+<!-- ========================= HERO SECTION ========================= -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=4FC3F7&lines=THIS+IS+RAVI+SHEKHAR"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=850&color=4FC3F7&lines=THIS+IS+RAVI+SHEKHAR;Computer+Science+Engineer;GATE+%7C+PSU+%7C+Defence-Tech+Focused;Building+Reliable+%26+Scalable+Systems"
   />
 </p>
 
 <p align="center">
-  <span style="color:#81D4FA; font-size:20px; font-weight:600;">
-    🚀 Tech Enthusiast
-  </span>
+  🚀 <b>Tech Enthusiast | System Thinker | Core CS Learner</b>
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&color=64B5F6&lines=Software+Developer;Computer+Science+Programmer;IoT+Enthusiast;Defence+Technology"
-  />
+  💻 <b>Computer Science | Programming | System Building</b>
 </p>
 
+<!-- ========================= PORTFOLIO CTA ========================= -->
 <p align="center">
-  <b>💻 Computer Science | Programming | System Building</b>
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-Projects%20%7C%20Resume%20%7C%20Experience-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-I am a **3rd Year Computer Science Engineering student** passionate about  
-**programming, modern computing, and real-world problem solving**.
+## 🧠 About Me
+
+I am a **3rd Year Computer Science Engineering student** focused on  
+**strong CS fundamentals, system-level thinking, and real-world problem solving**.
+
+I believe in **building systems, not just writing code** —  
+especially software that is **reliable, scalable, and suitable for critical infrastructure**.
 
 - 🎓 3rd Year CSE Student  
-- 🧠 Learn by building real systems  
-- 💡 Curious about emerging technologies  
-- 🎯 Preparing for **placements & internships**
+- 🧠 Strong fundamentals (DSA, OS, DBMS, CN)  
+- 💡 Learn by building & experimenting  
+- 🎯 Preparing for **GATE, PSU & Defence-Tech roles**
 
 ---
 
 ## 🏢 Internship Experience
 
-### 🧑‍💻 Web Developer Intern
+### 🧑‍💻 Web Developer Intern  
 🏢 **ONGC (Oil and Natural Gas Corporation)**  
 🏢 **SAIL (Steel Authority of India Limited)**  
 
 - Frontend & backend development  
 - REST API integration  
 - Database connectivity  
-- Industry-level coding practices  
+- Industry-grade coding practices  
+- Exposure to structured, secure systems  
 
 ---
 
-## 🛠️ Technical Skills (Icon-Based)
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" />
 </p>
 
-### 🌐 Web & Software Development
+### 🌐 Software & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
 ### 🤖 Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ### 🗄️ Databases & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-### 📡 IoT & Defence Tech (Basics)
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-0A192F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sensors%20%26%20Automation-112240?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Defence%20Technology-233554?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/Personal-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Personal-Portfolio&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/Inventory-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Inventory-Management-System&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+## 🎯 GATE & PSU Focused Preparation
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/Email-Spam-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Email-Spam-Detection&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/URL-Phishing-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=URL-Phishing-Detection&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+### 🔹 Target Exams
+- GATE (CS / IT)  
+- PSUs: ONGC, IOCL, BARC, ISRO, DRDO, SAIL  
+
+### 🔹 Core Subjects
+- Data Structures & Algorithms  
+- Operating Systems  
+- DBMS  
+- Computer Networks  
+- Digital Logic  
+- Computer Organization  
+
+### 🔹 Preparation Strategy
+- Concept-first learning  
+- PYQs + mock tests  
+- Linking theory with implementation  
+- System-level understanding  
 
 ---
 
-## 🧠 DSA & Competitive Programming
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Fira%20Code&animation=true" />
-</p>
+## 🛡️ Defence Technology Interest
+
+- Secure & mission-critical software  
+- Reliability & safety-first coding  
+- Embedded & IoT fundamentals  
+- Defence-oriented problem solving  
+- 🇮🇳 Aspiration to contribute to **national defence & infrastructure**
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://gfgstatscard.vercel.app/YOUR_GFG_USERNAME" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -141,27 +133,38 @@ I am a **3rd Year Computer Science Engineering student** passionate about
 
 ---
 
-## 📄 Resume
+## 🐍 Contribution Activity (3D Animation)
+
 <p align="center">
-  <a href="YOUR_RESUME_LINK.pdf">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-Placement%20Ready-64B5F6?style=for-the-badge&logo=googledocs&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ Enable **GitHub Actions once** for auto-updates
+
+---
+
+## 🌌 Activity Graph
+
+<p align="center">
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/graph-dark.svg" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-90CAF9?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FFCDD2?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Open for Internships & Placement Opportunities</b>
+  ⭐ <b>Open for Internships, PSU Roles & Defence-Tech Opportunities</b><br>
+  <b>— Ravi Shekhar 🇮🇳</b>
 </p>
